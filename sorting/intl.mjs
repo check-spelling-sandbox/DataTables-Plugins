@@ -23,7 +23,7 @@ let $ = jQuery;
  * [MDN Intl documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Collator).
  *
  * @name intl
- * @summary Sort string data using the Intl Javascript API
+ * @summary Sort string data using the Intl JavaScript API
  * @author [Allan Jardine](//datatables.net)
  * @depends DataTables 1.10+
  *

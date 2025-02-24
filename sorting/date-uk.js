@@ -1,6 +1,6 @@
 /**
  * DataTables internal date sorting replies on `Date.parse()` which is part of 
- * the Javascript language, but you may wish to sort on dates which is doesn't 
+ * the JavaScript language, but you may wish to sort on dates which is doesn't 
  * recognise. The following is a plug-in for sorting dates in the format 
  * `dd/mm/yy`.
  * 

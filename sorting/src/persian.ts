@@ -1,7 +1,7 @@
 /*! © SpryMedia Ltd, Afshin Mehrabani - datatables.net/license */
 
 /**
- * Sorting in Javascript can be difficult to get right with non-Roman
+ * Sorting in JavaScript can be difficult to get right with non-Roman
  * characters - for which special consideration must be made. This plug-in
  * performs correct sorting on Persian characters.
  *

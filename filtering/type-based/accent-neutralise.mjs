@@ -13,7 +13,7 @@ let $ = jQuery;
  * DataTables with a function that will replace the accented characters
  * with their unaccented counterparts for fast and easy filtering.
  *
- * Note that this plug-in uses the Javascript I18n API that was introduced in
+ * Note that this plug-in uses the JavaScript I18n API that was introduced in
  * ES6. For older browser's this plug-in will have no effect.
  *
  *  @summary Replace accented characters with unaccented counterparts

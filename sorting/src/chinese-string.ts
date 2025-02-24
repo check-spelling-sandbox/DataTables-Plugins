@@ -1,9 +1,9 @@
 /*! © SpryMedia Ltd, Patrik Lindström - datatables.net/license */
 
 /**
- * Sorting in Javascript for Chinese Character. The Chinese Characters are
+ * Sorting in JavaScript for Chinese Character. The Chinese Characters are
  * sorted on the radical and number of strokes. This plug-in performs sorting
- * for Chinese characters using the Javascript [localeCompare](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String/localeCompare)
+ * for Chinese characters using the JavaScript [localeCompare](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String/localeCompare)
  * function.
  *
  * Please note that `localeCompare` is not implemented in the same way in all

@@ -14,7 +14,7 @@ To install with npm (substitute with your favorite package manager if you prefer
 npm install datatables.net datatables.net-feature-inputpaging
 ```
 
-Then in your Javascript file (assuming you are using ES Modules):
+Then in your JavaScript file (assuming you are using ES Modules):
 
 ```js
 import DataTable from 'datatables.net';

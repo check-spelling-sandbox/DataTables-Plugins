@@ -7,7 +7,7 @@ import DataTable from 'datatables.net';
 let $ = jQuery;
 
 /**
- * Rendering methods using the Javascript Intl API. This is supported by IE11,
+ * Rendering methods using the JavaScript Intl API. This is supported by IE11,
  * Edge, Chrome, Firefox and Safari 10+. Any browser that does not support the
  * Intl will simply show the unformatted data to the end user.
  *
@@ -31,7 +31,7 @@ let $ = jQuery;
  * [NumberFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NumberFormat).
  *
  *  @name intl
- *  @summary Use the Intl Javascript API to render dates and numbers
+ *  @summary Use the Intl JavaScript API to render dates and numbers
  *  @author [Allan Jardine](http://datatables.net)
  *  @requires DataTables 1.10+
  *

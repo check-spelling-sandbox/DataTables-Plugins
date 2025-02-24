@@ -11,7 +11,7 @@ let $ = jQuery;
  * are a common example) and sorting them in a natural manner is quite a
  * difficult problem.
  *
- * Fortunately the Javascript `localeCompare` method is now widely supported
+ * Fortunately the JavaScript `localeCompare` method is now widely supported
  * and provides a natural sorting method we can use with DataTables.
  *
  *  @name Natural sorting
