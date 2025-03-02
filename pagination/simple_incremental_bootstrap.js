@@ -16,7 +16,7 @@
  * [<Previous] 1 2 3 4 [Next>]
  * 
  * When user navigates back, pagination will remember the last page number
- * he reached and the numbesr up to the last known page are shown. As an example,
+ * he reached and the numbers up to the last known page are shown. As an example,
  * when user returns to the page 2, page numbers 1, 2, 3, and 4 are still shown:
  * 
  * [<Previous] 1 2 3 4 [Next>]
