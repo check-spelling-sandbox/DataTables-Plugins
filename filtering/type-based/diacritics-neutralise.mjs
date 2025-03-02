@@ -21,7 +21,7 @@ let $ = jQuery;
  *
  * For example is the letters ＥÈÉÊỀẾỄỂẼĒḔḖĔĖËẺĚȄȆẸỆȨḜĘḘḚƐƎ searchable by the input 'E'.
  *
- * As a additional feature you can customise the plugin by allowing certain diacratics:
+ * As a additional feature you can customise the plugin by allowing certain diacritics:
  *
  * jQuery.fn.DataTable.ext.type.search.allowDiacritics( array );
  *
