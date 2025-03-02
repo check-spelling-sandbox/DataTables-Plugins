@@ -36,7 +36,7 @@
  * Without second query, page load time might be 2x faster, especially in cases
  * when server can quickly get top 100 records, but it would need to scan entire
  * database table just to calculate the total count and position of the last
- * page. This pagination style is reasonable trade-off between simple and fullnumbers 
+ * page. This pagination style is reasonable trade-off between simple and full numbers 
  * pagination.
  * 
  *  @name Simple Incremental navigation (Bootstrap)
