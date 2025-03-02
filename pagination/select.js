@@ -20,7 +20,7 @@ var paginateTotalClassName = 'paginate_total';
 $.fn.dataTableExt.oPagination.listbox = {
 	/*
 	 * Function: oPagination.listbox.fnInit
-	 * Purpose:  Initalise dom elements required for pagination with listbox input
+	 * Purpose:  Initialise dom elements required for pagination with listbox input
 	 * Returns:  -
 	 * Inputs:   object:oSettings - dataTables settings object
 	 *             node:nPaging - the DIV which contains this pagination control
