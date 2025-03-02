@@ -109,7 +109,7 @@ DataTable.ext.deepLink = function (whitelist) {
             value = value * 1;
         }
         else if (value.indexOf('{') === 0 || value.indexOf('[') === 0) {
-            // Try to JSON parse for arrays and obejcts
+            // Try to JSON parse for arrays and objects
             try {
                 value = $.parseJSON(value);
             }
