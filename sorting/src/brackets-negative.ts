@@ -39,7 +39,7 @@ DataTable.ext.type.order['currency-pre'] = function (data) {
 			data = '-' + data.replace(/[\$£€c\(\),]/g, '');
 		}
 		else {
-			//Already has a '-' so just strip out non-numeric characters exluding '-'
+			//Already has a '-' so just strip out non-numeric characters excluding '-'
 			data = data.replace(/[^\d\-\.]/g, '');
 		}
 	}
