@@ -12,7 +12,7 @@ let $ = jQuery;
  * non-numeric data.
  *
  * By default when a cell is found to have no numeric data its value is sorted
- * numerically as if its value were 0. This could also be altered to be Inifnity
+ * numerically as if its value were 0. This could also be altered to be Infinity
  * or -Infinity as required.
  *
  * DataTables 1.10+ has formatted number detection and sorting abilities built-
