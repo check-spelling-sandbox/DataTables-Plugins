@@ -64,7 +64,7 @@ var DataTable = $.fn.dataTable;
  *		Value is utilised on when 'location' is given as 'popup'.
  *
  *  @name hyperLink
- *  @summary Displays url data in hyperLink with custom plcaeholder
+ *  @summary Displays url data in hyperLink with custom placeholder
  *  @author Lokesh Babu
  *  @requires DataTables 1.10+
  *
