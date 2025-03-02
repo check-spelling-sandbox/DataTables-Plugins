@@ -60,7 +60,7 @@ var DataTable = $.fn.dataTable;
  *		The custom width of popup to display.
  *		Value is utilised on when 'location' is given as 'popup'.
  * 4. 'height' -  type integer - (optional - default `400`)
- *		The custom heigth of popup to display.
+ *		The custom height of popup to display.
  *		Value is utilised on when 'location' is given as 'popup'.
  *
  *  @name hyperLink
