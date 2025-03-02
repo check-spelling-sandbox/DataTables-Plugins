@@ -359,7 +359,7 @@ $(document).on('init.dt', function (e, settings) {
 			event.key === 'Enter' ||
 			event.type === 'click'
 		) {
-			// If the toggle is set and isn't checkd then perform a normal search
+			// If the toggle is set and isn't checked then perform a normal search
 			if (toggle && !toggle.attr('blurred')) {
 				api.rows().iterator(
 					'row',
