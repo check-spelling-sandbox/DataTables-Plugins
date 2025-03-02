@@ -28,7 +28,7 @@
  * 
  * Key benefit: This pagination supports usual pagination pattern and does not
  * require server to return total count of items just to calculate last page and
- * all numbers. This migh be huge performance benefit because server does not
+ * all numbers. This might be huge performance benefit because server does not
  * need to execute two queries in server-side processing mode:
  * - One to get the records that will be shown on the current page,
  * - Second to get the total count just to calculate full pagination.
